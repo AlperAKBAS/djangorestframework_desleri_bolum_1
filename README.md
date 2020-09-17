@@ -414,3 +414,4 @@ VİDEO TUTORIAL SERİSİ İÇİN LİNK:  [Django RestFramework Dersleri - Bölü
 
 
 # djangorestframework_desleri_bolum_1
+# djangorestframework_desleri_bolum_1
